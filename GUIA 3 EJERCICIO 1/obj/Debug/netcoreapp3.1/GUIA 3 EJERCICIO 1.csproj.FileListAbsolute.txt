@@ -1,0 +1,13 @@
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.exe
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.deps.json
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.runtimeconfig.json
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.dll
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\bin\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.pdb
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.AssemblyInfo.cs
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.dll
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.pdb
+C:\Users\oscar\Desktop\REBE GUIA 3\EJERCICIO 1\GUIA 3 EJERCICIO 1\GUIA 3 EJERCICIO 1\obj\Debug\netcoreapp3.1\GUIA 3 EJERCICIO 1.genruntimeconfig.cache
